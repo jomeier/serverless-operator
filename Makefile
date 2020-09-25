@@ -1,3 +1,5 @@
+include ./opo-makefile-new-bundle-format.mk
+
 # Useful for local development
 dev:
 	./hack/dev.sh
